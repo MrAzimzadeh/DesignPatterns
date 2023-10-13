@@ -1,0 +1,14 @@
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\bin\Debug\net7.0\BuilderPattern.exe
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\bin\Debug\net7.0\BuilderPattern.deps.json
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\bin\Debug\net7.0\BuilderPattern.runtimeconfig.json
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\bin\Debug\net7.0\BuilderPattern.dll
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\bin\Debug\net7.0\BuilderPattern.pdb
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.dll
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\refint\BuilderPattern.dll
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.pdb
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\azimz\OneDrive\Documents\DesignPatterns\BuilderPattern\obj\Debug\net7.0\ref\BuilderPattern.dll
